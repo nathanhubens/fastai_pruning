@@ -1,4 +1,5 @@
 from fastai.callbacks import *
+from fastai.vision import *
 
 class Sparsifier():
     def __init__(self, meta):
